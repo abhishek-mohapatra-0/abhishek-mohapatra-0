@@ -59,35 +59,6 @@
 
 ---
 
-### 🏃‍♂️ Recent Activity  
-<!--START_SECTION:activity-->
-<!-- This will auto-update -->
-<!--END_SECTION:activity-->
-
----
-
-### 🐍 Contributions Snake (Dark & Light Mode)
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishek-mohapatra-0/abhishek-mohapatra-0/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhishek-mohapatra-0/abhishek-mohapatra-0/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abhishek-mohapatra-0/abhishek-mohapatra-0/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
----
-
-### 🌍 Visitor Insights  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhishek-mohapatra-0&label=Profile%20Views&color=blue&style=for-the-badge" alt="profile views" />  
-  <br>
-  <img src="https://ipapi.co/json/" alt="IP and Location will be displayed here using browser" width="0" />
-  <br>
-  <img src="https://geolocation-db.com/json/" alt="location data" width="0" />
-</p>
-
----
-
 ### 📊 **Animated Banner: Data & Analytics Enthusiast**  
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F75C7E&center=true&vCenter=true&width=1000&lines=📊+Data+is+the+new+oil;📈+Analytics+turns+data+into+decisions;🤖+Automating+Insights+with+AI;📊+Transforming+Raw+Numbers+into+Business+Impact;🚀+Lifelong+Learner+%7C+Problem+Solver+%7C+Data+Enthusiast" alt="Data Analytics Animated Banner" />
