@@ -1,67 +1,100 @@
-<h1 align="center">Hi 👋, I'm Abhishek Mohapatra</h1>
-<h3 align="center">Data Analyst | SQL | Power BI | Python</h3>
+# Hi there 👋, I'm Abhishek Mohapatra
 
-<!-- Typing animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=500&lines=Data+Analyst;SQL+%7C+Python+%7C+Power+BI;Transforming+Data+into+Insights;Lifelong+Learner+%7C+Problem+Solver" alt="Typing Animation" />
-</p>
+## 🚀 Data Analyst, SQL, Python, Power BI, AI Agents, Generative AI, Machine Learning, Data Engineering, Business Intelligence
 
-<!-- Left aligned banner -->
-<img align="left" src="https://media.licdn.com/dms/image/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_600_2000/0/1616667695311?e=2147483647&v=beta&t=KTbbDeJ4Wwf6KFCPZ0Q1Et1jbaD7d81SHbTx-NVs3QA" alt="Coding Banner" width="380" style="border-radius:15px;"/>
-
-### 🚀 About Me  
-- 🔍 Passionate about **turning data into actionable insights**  
-- 🛠 Skilled in **SQL, Power BI, Python, Excel, Tableau**  
-- 🌱 Learning **Advanced Data Visualization & Automation**  
-- 📈 Love solving problems and building dashboards that **tell stories**  
-- 🎯 **Goal:** Become an expert in end-to-end analytics  
-
-<br clear="left"/>
+I'm a **Data Analyst** with **2.6+ years of experience** transforming complex datasets into actionable business insights. I enjoy building scalable analytics solutions, automating reporting workflows, and leveraging AI to solve real-world business problems.
 
 ---
 
-### 🌐 Connect with Me  
-<p>
-  <a href="https://linkedin.com/in/abhishek-mohapatra223/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:abhishek.mohapatra223@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+## 👨‍💻 About Me
+
+- 📊 Data Analyst with 2.6+ years of experience in Business Intelligence and Analytics
+- 💻 Skilled in SQL, Python, Power BI, Tableau, Advanced Excel, DAX, Power Query, and MySQL
+- 🤖 Passionate about Artificial Intelligence, Generative AI, AI Agents, and workflow automation
+- 📈 Experienced in building dashboards, KPI reporting, data modeling, and performance analytics
+- 🔍 Strong background in data cleaning, statistical analysis, reporting automation, and business intelligence
+- 🌱 Currently learning Microsoft Fabric, Azure Data Engineering, and advanced AI applications
+- 🚀 Always exploring innovative ways to transform raw data into meaningful business insights
 
 ---
 
-### 🛠 Tech Stack  
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-</p>
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+- SQL
+- Python
+
+### 📊 Business Intelligence & Visualization
+- Power BI
+- Tableau
+- SAP Lumira
+
+### 🗄️ Databases
+- MySQL
+- Microsoft Access
+
+### 📈 Data Analytics
+- Advanced Excel
+- Power Query
+- DAX
+- VBA
+
+### 🤖 AI & Automation
+- AI Agents
+- Generative AI
+- Microsoft Copilot
+- Claude
+- OpenAI
+- Prompt Engineering
+
+### ⚙️ Tools & Technologies
+- Git
+- GitHub
+- CRM
+- Microsoft Office 365
 
 ---
 
-### 🔥 Featured Projects  
-<p align="center">
-  <a href="https://github.com/abhishek-mohapatra-0/OLA-Data-Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek-mohapatra-0&repo=OLA-Data-Analysis&theme=radical" />
-  </a>
-  <a href="https://github.com/abhishek-mohapatra-0/Zomato_Data_Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek-mohapatra-0&repo=Zomato_Data_Analysis&theme=radical" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/abhishek-mohapatra-0/E-Commerce-Sales-Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek-mohapatra-0&repo=E-Commerce-Sales-Analysis&theme=radical" />
-  </a>
-  <a href="https://github.com/abhishek-mohapatra-0/Hotel_Booking_EDA_Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek-mohapatra-0&repo=Hotel_Booking_EDA_Analysis&theme=radical" />
-  </a>
-</p>
+## 💼 Professional Experience
+
+### 📊 Data Analytics
+- Analyze and transform large-scale datasets into actionable business insights.
+- Build interactive dashboards and automated reporting solutions.
+- Design KPI frameworks and business performance reports.
+- Optimize SQL queries for scalable and efficient reporting.
+- Perform data cleaning, normalization, validation, and reconciliation across multiple data sources.
+
+### 🤖 Automation & AI
+- Automate recurring reporting workflows using Python and VBA.
+- Develop AI-assisted analytical workflows to improve productivity.
+- Reduce manual effort through intelligent automation.
+- Leverage Generative AI tools to accelerate analytics and reporting.
+
+### 📈 Business Intelligence
+- Develop executive dashboards for stakeholders.
+- Perform trend analysis and business performance reporting.
+- Support strategic decision-making with data-driven insights.
+- Create scalable reporting solutions across multiple business functions.
 
 ---
 
-### 📊 **Animated Banner: Data & Analytics Enthusiast**  
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F75C7E&center=true&vCenter=true&width=1000&lines=📊+Data+is+the+new+oil;📈+Analytics+turns+data+into+decisions;🤖+Automating+Insights+with+AI;📊+Transforming+Raw+Numbers+into+Business+Impact;🚀+Lifelong+Learner+%7C+Problem+Solver+%7C+Data+Enthusiast" alt="Data Analytics Animated Banner" />
-</p>
+## 🎯 Areas of Interest
+
+- Data Analytics
+- Business Intelligence
+- Data Engineering
+- Artificial Intelligence
+- Generative AI
+- AI Agents
+- Machine Learning
+- Data Warehousing
+- SQL Optimization
+- Dashboard Development
+- Process Automation
+- Data Visualization
 
 ---
+
+## 💡 Motto
+
+> **"Transforming Data into Actionable Insights through Analytics, Automation, and AI."**
