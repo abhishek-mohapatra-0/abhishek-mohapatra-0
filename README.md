@@ -95,6 +95,3 @@ I'm a **Data Analyst** with **2.6+ years of experience** transforming complex da
 
 ---
 
-## 💡 Motto
-
-> **"Transforming Data into Actionable Insights through Analytics, Automation, and AI."**
