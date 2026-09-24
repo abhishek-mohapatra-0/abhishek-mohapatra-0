@@ -21,7 +21,6 @@
 - ⚙️ I automate recurring reporting with **Python, VBA and Power Query**, optimise slow SQL, and simplify reporting templates.
 - 🤖 I built an **AI Text-to-SQL agent** at work. Anyone can ask a question in plain English and get the SQL, the result table and a summary. It's now used across many teams.
 - 🌱 Currently learning **Microsoft Fabric, Azure data engineering** and production-grade AI agents.
-- 🎓 BSc in Chemistry, Fakir Mohan University. I moved from science into data analytics.
 
 ---
 
