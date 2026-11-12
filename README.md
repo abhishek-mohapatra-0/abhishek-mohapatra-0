@@ -4,7 +4,7 @@
 
 <p align="center">
   SQL · Python · Power BI · Machine Learning · LLM agents<br>
-  Bengaluru, India · 2.6+ years turning messy enterprise data into dashboards, automation and AI tools
+  Bengaluru, India · 2.11+ years turning messy enterprise data into dashboards, automation and AI tools
 </p>
 
 <p align="center">
